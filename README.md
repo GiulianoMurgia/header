@@ -5,3 +5,5 @@
 - Unzip the current project file.
 - Download  bootstrap from this [link](https://github.com/twbs/bootstrap/releases/download/v3.3.7/bootstrap-3.3.7-dist.zip).
 - Unzip the file and rename the bootstrap directory to "vendors"
+
+## Installation - Exercise 3
